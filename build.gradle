@@ -31,7 +31,7 @@ jib {
         image = 'openjdk:17-alpine' // 기반 이미지로 OpenJDK 17 Alpine 사용
     }
     to {
-        image = '553186839963.dkr.ecr.ap-northeast-2.amazonaws.com/drogva:hi' // ECR에 푸시할 이미지
+        image = '553186839963.dkr.ecr.ap-northeast-2.amazonaws.com/drogva:was' // ECR에 푸시할 이미지
     }
 }
 
